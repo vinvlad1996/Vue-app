@@ -9,7 +9,7 @@ const log = (text, type, date = new Date()) => ({text, type, date})
 
 const cars = [
     car('Ford', 'Focus', 'Max', '2015', '+7 921 123 45 67', 'IMG/focus.webp'),
-    car('Ford', 'Mondeo', 'Ben', '2021', '+7 921 777 89 67', 'IMG/mondeo.jpeg'),
+    car('Ford', 'Mondeo', 'Ben', '2021', '+7 921 777 89 67', 'IMG/mondeo.png'),
     car('Porshe', 'Panamera', 'Chloe', '2020', '+7 921 854 22 67', 'IMG/panamera.png')
 ]
 
